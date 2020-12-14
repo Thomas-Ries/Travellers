@@ -34,8 +34,14 @@ I was assigned to the Front-End part.
 - Setup of a Server
 
 
-![alt tag](https://user-images.githubusercontent.com/73991398/99702511-2807e880-2a96-11eb-8345-06b25aeb115f.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/102104459-7fe40600-3e2e-11eb-802e-6069e3844ba3.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/99702530-30f8ba00-2a96-11eb-86ab-7901c5db3ade.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/102104352-6216a100-3e2e-11eb-96ef-20d5f3352edb.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/99702600-48d03e00-2a96-11eb-92f8-23d4066bd28f.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/102104352-6216a100-3e2e-11eb-96ef-20d5f3352edb.png)
+
+![alt tag](https://user-images.githubusercontent.com/73991398/102104393-6f339000-3e2e-11eb-8e59-fe20500d8d9f.png)
+
+![alt tag](https://user-images.githubusercontent.com/73991398/102104426-78246180-3e2e-11eb-8a4f-be8579018613.png)
+
+![alt tag](https://user-images.githubusercontent.com/73991398/102104337-5dea8380-3e2e-11eb-8470-4a67122060c5.png)
