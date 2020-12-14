@@ -38,8 +38,6 @@ I was assigned to the Front-End part.
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/102104352-6216a100-3e2e-11eb-96ef-20d5f3352edb.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104352-6216a100-3e2e-11eb-96ef-20d5f3352edb.png)
-
 ![alt tag](https://user-images.githubusercontent.com/73991398/102104393-6f339000-3e2e-11eb-8e59-fe20500d8d9f.png)
 
 ![alt tag](https://user-images.githubusercontent.com/73991398/102104426-78246180-3e2e-11eb-8a4f-be8579018613.png)
