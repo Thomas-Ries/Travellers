@@ -14,7 +14,7 @@ First big project in group during my studies
 - Vue Router
 - VueX
 
-# Font
+# Icons
 - Fontawesome
 
 # Informations
