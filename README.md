@@ -4,7 +4,7 @@ First big project in group during my studies
 # Date
 11th November 2020
 
-# Langage used in Front
+# Languages used in Front
 - HTML 5
 - CSS 3
 
