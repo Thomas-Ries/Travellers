@@ -7,6 +7,7 @@ First big project in group during my studies
 # Languages used in Front
 - HTML 5
 - CSS 3
+- JavaScript 
 
 # Framework used in Front
 - Bootstrap via cdn
