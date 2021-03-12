@@ -23,6 +23,9 @@ First big project in group during my studies
 # Icons
 - Fontawesome
 
+# Images
+- Unsplash
+
 # Informations
 Project build with 5 other students in 2 weeks at the middle of our courses.
 I was assigned to the Front-End part.
